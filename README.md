@@ -16,8 +16,8 @@ This repository hosts my academic personal website, powered by **GitHub Pages**.
 - 🌐 Create a platform for **academic visibility** and **collaboration**  
 
 ## 🛠️ Technical Source
-- This website was inspired by the design and implementation of [senli1073.github.io](https://senli1073.github.io)  
-- Deployed via **GitHub Pages**  
+- The website design and implementation were inspired by [@senli1073](https://github.com/senli1073)  
+- Deployed via **GitHub Pages** 
 
 ## 📬 Contact
 - GitHub: [@JinPing1025](https://github.com/JinPing1025)  
