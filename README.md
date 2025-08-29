@@ -1,19 +1,24 @@
-# Personal Academic Website
+# Academic Personal Website
 
-This repository hosts my personal academic webpage, built with **GitHub Pages**.
+This repository hosts my academic personal website, powered by **GitHub Pages**.
 
 ## 🌐 Website
-👉 [Visit my homepage](https://your-username.github.io)
+👉 [Visit my homepage](https://jinping1025.github.io)
 
-## 📌 About
-- Sharing my **research work**, **projects**, and **publications**  
-- Recording my **learning notes** and **academic experiences**  
-- Providing an easy way to **connect and collaborate**  
+## 📌 Website Structure
+- **HOME** — Brief introduction and navigation
+- **PUBLICATIONS** — List of my research publications
+- **AWARDS** — Highlighted recognitions and achievements
 
-## ⚙️ Tech Stack
-- HTML / CSS / JavaScript  
-- GitHub Pages for hosting  
+## 🎯 Purpose
+- 📝 Showcase **academic publications** and **research areas**  
+- 🏆 Present **awards** and **honors**  
+- 🌐 Create a platform for **academic visibility** and **collaboration**  
+
+## 🛠️ Technical Source
+- This website was inspired by the design and implementation of [senli1073.github.io](https://senli1073.github.io)  
+- Deployed via **GitHub Pages**  
 
 ## 📬 Contact
-- Email: your-email@example.com  
-- GitHub: [@your-username](https://github.com/your-username)  
+- GitHub: [@JinPing1025](https://github.com/JinPing1025)  
+- Email: 359100230009@email.ncu.edu.cn  
