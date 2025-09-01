@@ -1,5 +1,5 @@
 
-[![JinPing1025](https://img.shields.io/badge/JinPing1025-github-blue?logo=github)](https://github.com/JinPing1025)
+[![JinPing-Zou](https://img.shields.io/badge/JinPing--Zou-github-blue?logo=github)](https://github.com/JinPing-Zou)
 &nbsp;[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=xU091AYAAAAJ)
 
 He is currently a Ph.D. candidate in the School of Mathematics and Computer Science at Nanchang University.
