@@ -3,7 +3,7 @@
 This repository hosts my academic personal website, powered by **GitHub Pages**.
 
 ## 🌐 Website
-👉 [Visit my homepage](https://jinping1025.github.io)
+👉 [Visit my homepage](https://jinping-zou.github.io)
 
 ## 📌 Website Structure
 - **HOME** — Brief introduction and navigation
