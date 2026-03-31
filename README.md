@@ -6,13 +6,11 @@ This repository hosts my academic personal website, powered by **GitHub Pages**.
 👉 [Visit my homepage](https://jinping-zou.github.io)
 
 ## 📌 Website Structure
-- **HOME** — Brief introduction and navigation
-- **PUBLICATIONS** — List of my research publications
-- **AWARDS** — Highlighted recognitions and achievements
+- **Resume** — Brief introduction and navigation
+- **Google Scholar** — List of my research publications
 
 ## 🎯 Purpose
 - 📝 Showcase **academic publications** and **research areas**  
-- 🏆 Present **awards** and **honors**  
 - 🌐 Create a platform for **academic visibility** and **collaboration**  
 
 ## 📬 Contact
